@@ -14,7 +14,7 @@ Para executar temos duas opções: <br>
       5- Execute o arquivo:  <br>
           chrome2.py   <br>
       6- Pronto. <br>
-      <pre>
+      </pre>
 . <br>
 O script salva um arquivo texto (Passwords.txt) com as senhas salvas  <br>
 Seja feliz ^^ <br>
