@@ -6,6 +6,7 @@ Para executar temos duas opções: <br>
     - Confesso que fiquei com preguiça de arrumar todos os erros em meu notebook para conseguir fazer a conversão de .py para .exe  (executável)  <br>
 2-  Ter o Python instalado previamente no seu computador e executar a partir do cmd.  <br>
     - Portanto: <br>
+    <pre>
       1- Baixe o script  <br>
       2- Extraia o arquivo <br>
       3- Abra o cmd  <br>
@@ -13,6 +14,7 @@ Para executar temos duas opções: <br>
       5- Execute o arquivo:  <br>
           chrome2.py   <br>
       6- Pronto. <br>
+      <pre>
 . <br>
 O script salva um arquivo texto (Passwords.txt) com as senhas salvas  <br>
 Seja feliz ^^ <br>
