@@ -1,5 +1,5 @@
 <h4># Projeto</h4>
-<p>Neste Github irei salvar meus projetos, scrips e aplicações durante meu aprendizado na área de Programação<br></p>
+<p>Neste Github irei salvar meus projetos, scripts e aplicações durante meu aprendizado na área de Programação<br></p>
 <ul>
 <li>Python
 <li>C (aprendizado)
